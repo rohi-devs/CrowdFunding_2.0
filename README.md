@@ -1,5 +1,5 @@
 # CrowdFunding_2.0
-
+----
 <img src="./screenshots/1.gif" />
 
 ### Clone this repo using the git 
